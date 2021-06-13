@@ -1,0 +1,11 @@
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\bin\Debug\netcoreapp2.1\DemoProj.deps.json
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\bin\Debug\netcoreapp2.1\DemoProj.runtimeconfig.json
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\bin\Debug\netcoreapp2.1\DemoProj.runtimeconfig.dev.json
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\bin\Debug\netcoreapp2.1\DemoProj.dll
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\bin\Debug\netcoreapp2.1\DemoProj.pdb
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\obj\Debug\netcoreapp2.1\DemoProj.csprojAssemblyReference.cache
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\obj\Debug\netcoreapp2.1\DemoProj.csproj.CoreCompileInputs.cache
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\obj\Debug\netcoreapp2.1\DemoProj.AssemblyInfoInputs.cache
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\obj\Debug\netcoreapp2.1\DemoProj.AssemblyInfo.cs
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\obj\Debug\netcoreapp2.1\DemoProj.dll
+E:\Vyas_Dev\ReadySeleniumProjects\Selenium_c#\VSCode\DemoProj\obj\Debug\netcoreapp2.1\DemoProj.pdb
